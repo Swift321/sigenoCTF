@@ -3,7 +3,7 @@
 
 section{
 
-    padding:135px 0 0 0;
+    padding:170px 0 0 0;
     position:relative;
 
 
@@ -11,7 +11,7 @@ section{
 
 #member {
 
-    margin-bottom: 35px;
+    margin-bottom: 20px;
 
 
 }
@@ -28,7 +28,12 @@ section{
 
 .line1{
 
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 
 }
 
+.line2{
+
+    margin-bottom: 30px;
+
+}
